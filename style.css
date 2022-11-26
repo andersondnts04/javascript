@@ -1,0 +1,12 @@
+body {background-color:lightblue;}
+
+#name{
+    border-radius: 20px;
+    width: 20%;
+    margin-top: 40px;
+    padding: 5px;
+    font-size: 20px;
+} 
+#label{
+    font-size: 30px;
+}
