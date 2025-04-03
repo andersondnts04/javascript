@@ -16,7 +16,7 @@ else{
 }
 function verificar(){
     var aqui = document.getElementById('word')
-   var texto = prompt('digite o nome:')
+   var texto = prompt('digite um numero maior que 2 e menor que 20:')
 
    if (texto>2 && texto<=20){
       alert ('valor é lido aqui')
